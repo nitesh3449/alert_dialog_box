@@ -1,7 +1,8 @@
 name: alert_dialog_box
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+author: Nitesh Kumar Verma
+homepage: https://github.com/nitesh3449/alert_dialog_box.git
 
 environment:
   sdk: ">=2.15.0 <3.0.0"
