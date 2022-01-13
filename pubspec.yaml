@@ -1,6 +1,6 @@
 name: alert_dialog_box
-description: A new Flutter project.
-version: 0.0.1
+description: This plugin is used for open a dialog box within your project, you only need to pass your custom text to show your messages to user. This works for android, ios and web.
+version: 0.0.2
 author: Nitesh Kumar Verma
 homepage: https://github.com/nitesh3449/alert_dialog_box.git
 
